@@ -1,6 +1,5 @@
 ⏰ Digital Clock Using Arduino
 ---------------------------------------------------------------------------------------------
-
 A simple digital clock built using Arduino Uno and a 16x2 LCD display, capable of displaying real-time hours, minutes, and seconds.
 
 ---------------------------------------------------------------------------------------------
