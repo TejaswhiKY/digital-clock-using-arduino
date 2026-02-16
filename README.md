@@ -2,7 +2,7 @@
 ⏱️ Digital Stop watch using arduino
 ---------------------------------------------------------------------------------------------
 
-An Arduino-based Digital Stopwatch is an embedded system project that measures and displays elapsed time using an Arduino microcontroller. The time is shown on a 16x2 LCD display, and push buttons are used to control operations such as start, stop, and reset.
+An Arduino-based Digital Stopwatch is an embedded system project that measures and displays elapsed time using an Arduino microcontroller. The time is shown on a 16x2 LCD display, and push buttons are used to control operations such as reset, forward, and backward.
 
 ---------------------------------------------------------------------------------------------
 📌 Project Overview
